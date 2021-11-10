@@ -85,6 +85,14 @@
   border: 1px solid white;
 }
 
+.work-app {
+  font-weight: bold;
+  font-size: 44px;
+  line-height: 36px;
+  text-align: center;
+  margin: 56px 0 70px;
+}
+
 .mobile {
   display: flex;
   justify-content: space-between;
